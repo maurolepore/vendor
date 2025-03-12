@@ -1,4 +1,4 @@
-# vendored
+# vendor
 
 A minimal app using a vendored package
 
